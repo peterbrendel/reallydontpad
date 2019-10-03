@@ -38,6 +38,6 @@ This program is a server. You can set everything up the first time you boot it. 
 
 Commands:
 
--h, --help                Show this help message and exit
--f FILE, --file FILE      File path (original.txt is default)
--o, --output              Print actual text in dontpad address
+- -h, --help                Show this help message and exit
+- -f FILE, --file FILE      File path (original.txt is default)
+- -o, --output              Print actual text in dontpad address
